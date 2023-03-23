@@ -14,7 +14,7 @@ npm i @micheledef/base64_encode_decode
 Usage
 
 ```sh
-const {base64_encode, base64_decode} = require('base64_encode_decode');
+const {base64_encode, base64_decode} = require('@micheledef/base64_encode_decode');
 
 let data = "Hello World";
 let encode = base64_encode(data);
