@@ -1,0 +1,25 @@
+{
+  "name": "base64_encode_decode",
+  "version": "1.0.0",
+  "description": "base64_encode and base64_decode with node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicheleDeF/base64_encode_decode.git"
+  },
+  "keywords": [
+    "base64_encode",
+    "base64_decode",
+    "node",
+    "js"
+  ],
+  "author": "MicheleDef",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MicheleDeF/base64_encode_decode/issues"
+  },
+  "homepage": "https://github.com/MicheleDeF/base64_encode_decode#readme"
+}
