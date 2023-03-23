@@ -1,5 +1,5 @@
 {
-  "name": "base64_encode_decode",
+  "name": "@micheledef/base64_encode_decode",
   "version": "1.0.0",
   "description": "base64_encode and base64_decode with node js",
   "main": "index.js",
