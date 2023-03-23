@@ -7,7 +7,7 @@ Install package with npm
 
 
 ```sh
-npm install base64_encode_decode
+npm i @micheledef/base64_encode_decode
 
 ```
 
